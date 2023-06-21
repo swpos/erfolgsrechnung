@@ -5,16 +5,16 @@ WP_erfolgsrechnung is a Wordpress Plugin to allow simplified bookings and financ
 The code is an extract and modification under the AGPL license from the following original copyrighted source:
 
 === Plugin Name ===
-Contributors: dave111223
-Donate link: http://www.advancedstyle.com/
-Tags: accounting, ledger, sales, expenses, financial
-Requires at least: 3.0.1
-Tested up to: 3.5.1
-Stable tag: 0.7.2
-License: AGPLv3.0 or later
-License URI: http://opensource.org/licenses/AGPL-3.0
+- Contributors: dave111223
+- Donate link: http://www.advancedstyle.com/
+- Tags: accounting, ledger, sales, expenses, financial
+- Requires at least: 3.0.1
+- Tested up to: 3.5.1
+- Stable tag: 0.7.2
+- License: AGPLv3.0 or later
+- License URI: http://opensource.org/licenses/AGPL-3.0
 
-The Plugin was obtained originally from the wordpress repository (no more downloadable): https://wordpress.org/plugins/wp-accounting
+- The Plugin was obtained originally from the wordpress repository (no more downloadable): https://wordpress.org/plugins/wp-accounting
 
 # Description
 

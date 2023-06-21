@@ -13,5 +13,11 @@ However, you are free to try out this plugin at your own risk, highly recommende
 - You also  will have an overview in the dashboard of accounts and cost centres based on cost and income accounts.
 - Finally, there is a detail menu link, which shows you the accounts and bookings on a raw detailed view, you might use in adjusted form for your dedicated bookkeeping application.
 
+# Concept
+  
+- Some Functions and views are still very basic and on the post type setup, not a lot has been changed, if not really needed
+- the architecture has been separated as good as possible to allow extensions (there are som comprimises).
+
+
 
 

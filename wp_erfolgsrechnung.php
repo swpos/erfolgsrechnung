@@ -17,14 +17,15 @@ The code is an extract and modification under the AGPL license from the followin
 
 === Plugin Name ===
 Plugin Name: WP Accounting
-Contributors: dave111223
-Donate link: http://www.advancedstyle.com/
-Tags: accounting, ledger, sales, expenses, financial
-Requires at least: 3.0.1
-Tested up to: 3.5.1
-Stable tag: 0.7.2
+Plugin URI: http://www.advancedstyle.com
+Description: Simple accounting system for recording income and expenses
+Version: 0.7.2
+Author: David Barnes
+Author URI: http://www.advancedstyle.com
 License: AGPLv3.0 or later
 License URI: http://opensource.org/licenses/AGPL-3.0
+Contributors: dave111223
+
 The Plugin was obtained originally from the wordpress repository (no more downloadable): https://wordpress.org/plugins/wp-accounting
 and modified on 21.06.2023.
 */

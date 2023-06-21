@@ -1,7 +1,24 @@
 # Description
 
 WP_erfolgsrechnung is a Wordpress Plugin to allow simplified bookings and financial overview.
-It is dedicated to small Swiss companies, especially, without any comsiderations for VAT taxes.
+
+The code is an extract and modification under the AGPL license from the following original copyrighted source:
+
+=== Plugin Name ===
+Contributors: dave111223
+Donate link: http://www.advancedstyle.com/
+Tags: accounting, ledger, sales, expenses, financial
+Requires at least: 3.0.1
+Tested up to: 3.5.1
+Stable tag: 0.7.2
+License: AGPLv3.0 or later
+License URI: http://opensource.org/licenses/AGPL-3.0
+
+The Plugin was obtained originally from the wordpress repository (no more downloadable): https://wordpress.org/plugins/wp-accounting
+
+# Description
+
+This heavy modified Plugin is dedicated to small Swiss companies, especially, without any comsiderations for VAT taxes. However, it might not provide full ledger requirements and might be used in conjunction withe a larger booking system as a master. 
 It is currently in experimental, development, testing state and should not be used in production environment 
 (There are some conceptional and technical bugs and you should not risk wrong analysis of your financial situation or a break on a successful running wordpress installation).
 However, you are free to try out this plugin at your own risk, highly recommended on a test environment only.

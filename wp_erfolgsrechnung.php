@@ -16,6 +16,7 @@
 The code is an extract and modification under the AGPL license from the following original copyrighted source:
 
 === Plugin Name ===
+Plugin Name: WP Accounting
 Contributors: dave111223
 Donate link: http://www.advancedstyle.com/
 Tags: accounting, ledger, sales, expenses, financial

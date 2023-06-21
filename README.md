@@ -25,7 +25,7 @@ However, you are free to try out this plugin at your own risk, highly recommende
 
 # Functionalities
 
-- It allows to do some bookings, having the Swiss Standard of account Bookings via "Soll" and "Haben". 
+- It allows to do some bookings, having the Swiss standard of account bookings via "Soll" and "Haben". 
 - In addition you can define and add some Cost Centres in the transactions. 
 - Further, you can mark some specific cost centres as public and use the shortcode [public_projects] to show a list with these cost centres and Details to the public (with the idea to use a cost centre for a specific project, you want to show as a list to the public, like a portfolio).
 - You also  will have an overview in the dashboard of accounts and cost centres based on cost and income accounts.

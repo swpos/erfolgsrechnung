@@ -34,7 +34,7 @@ However, you are free to try out this plugin at your own risk, highly recommende
 # Concept
   
 - Some Functions and views are still very basic and on the post type setup, not a lot has been changed, if not really needed, allowing you to use it as prototype for other projects.
-- the architecture has been separated as good as possible to allow extensions (there are som comprimises).
+- the architecture has been separated as good as possible to allow extensions (there are som compromises).
 
 
 

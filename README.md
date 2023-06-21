@@ -1,6 +1,7 @@
 # Description
 
 WP_erfolgsrechnung is a Wordpress Plugin to allow simplified bookings and financial overview.
+It is dedicated to small Swiss companies, especially, without any comsiderations for VAT taxes.
 It is currently in experimental, development, testing state and should not be used in production environment 
 (There are some conceptional and technical bugs and you should not risk wrong analysis of your financial situation or a break on a successful running wordpress installation).
 However, you are free to try out this plugin at your own risk, highly recommended on a test environment only.
